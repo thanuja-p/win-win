@@ -1,1 +1,5 @@
 # win-win
+
+```
+go main
+```
